@@ -8,6 +8,6 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline built using
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/mrassiyacine/etl-nasa.git
+   cd etl-nasa
    astro dev start
